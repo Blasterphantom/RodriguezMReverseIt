@@ -1,0 +1,15 @@
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/bin/Debug/net6.0/RodriguezMReverseIt
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/bin/Debug/net6.0/RodriguezMReverseIt.deps.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/bin/Debug/net6.0/RodriguezMReverseIt.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/bin/Debug/net6.0/RodriguezMReverseIt.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/bin/Debug/net6.0/RodriguezMReverseIt.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/obj/Debug/net6.0/RodriguezMReverseIt.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/obj/Debug/net6.0/RodriguezMReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/obj/Debug/net6.0/RodriguezMReverseIt.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/obj/Debug/net6.0/RodriguezMReverseIt.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/obj/Debug/net6.0/RodriguezMReverseIt.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/obj/Debug/net6.0/RodriguezMReverseIt.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/obj/Debug/net6.0/refint/RodriguezMReverseIt.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/obj/Debug/net6.0/RodriguezMReverseIt.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/obj/Debug/net6.0/RodriguezMReverseIt.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMReverseIt/obj/Debug/net6.0/ref/RodriguezMReverseIt.dll
